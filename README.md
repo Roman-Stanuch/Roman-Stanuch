@@ -6,7 +6,7 @@
 
 ### 😃 About Me:
 
-<p>I'm currently a student hoping to become a software engineer someday! I started programming with Scratch when I was 7, and I have been doing it ever since! I enjoy trying new things in the world of programming, and I am always looking for a new challenge to improve my skills!</p>
+<p>I'm currently a student and software developer! I started programming with Scratch when I was 7, and I have been doing it ever since! I enjoy trying new things in the world of programming, and I am always looking for a new challenge to improve my skills!</p>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/roman-stanuch-aa4801320/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
