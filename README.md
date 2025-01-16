@@ -40,5 +40,6 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Loosely Coupled FPS Character in UE5 C++](https://dev.to/romanstanuch/creating-a-loosely-coupled-fps-character-in-ue5-c-4ahn)
 - [Hello World!](https://dev.to/romanstanuch/hello-world-570b)
 <!-- BLOG-POST-LIST:END -->
