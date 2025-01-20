@@ -40,6 +40,7 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Postmortem of my First Game Engine Project](https://dev.to/romanstanuch/postmortem-of-my-first-game-engine-project-36eh)
 - [Creating a Loosely Coupled FPS Character in UE5 C++](https://dev.to/romanstanuch/creating-a-loosely-coupled-fps-character-in-ue5-c-4ahn)
 - [Hello World!](https://dev.to/romanstanuch/hello-world-570b)
 <!-- BLOG-POST-LIST:END -->
