@@ -11,8 +11,6 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/roman-stanuch-aa4801320/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://www.youtube.com/@PolygonalGraphics"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <a href="https://dev.to/romanstanuch"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.To Badge"/>
-</a>
 </div>
 
 ### 🛠 Languages and Tools:
@@ -36,11 +34,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Roman-Stanuch&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </a>
 </p>
-
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [Postmortem of my First Game Engine Project](https://dev.to/romanstanuch/postmortem-of-my-first-game-engine-project-36eh)
-- [Creating a Loosely Coupled FPS Character in UE5 C++](https://dev.to/romanstanuch/creating-a-loosely-coupled-fps-character-in-ue5-c-4ahn)
-- [Hello World!](https://dev.to/romanstanuch/hello-world-570b)
-<!-- BLOG-POST-LIST:END -->
