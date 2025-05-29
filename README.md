@@ -6,11 +6,12 @@
 
 ### 😃 About Me:
 
-<p>I'm currently a student and software developer! I started programming with Scratch when I was 7, and I have been doing it ever since! I enjoy trying new things in the world of programming, and I am always looking for a new challenge to improve my skills!</p>
+<p>I'm currently a student studying computer science! I enjoying applying my programming skills towards creative endeavors and challenging problems. My current focus is on computer graphics and 3D applications, but I dabble in all realms of software development!</p>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/roman-stanuch-aa4801320/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.youtube.com/@PolygonalGraphics"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="romanstanuch.com"><img src="https://img.shields.io/badge/Personal_Site-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/roman-stanuch-aa4801320/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://polygonal.hashnode.dev/?source=top_nav_blog_home"><img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blog"/>
 </div>
 
 ### 🛠 Languages and Tools:
@@ -18,11 +19,10 @@
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal" alt="Unreal" width="40" height="40"/>&nbsp;
 </div>
 
 <br />
