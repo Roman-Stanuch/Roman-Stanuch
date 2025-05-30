@@ -1,7 +1,7 @@
 ## 👋 Greetings, I'm Roman!
 
 <div id="header" align="center">
-  <img src="https://giffiles.alphacoders.com/215/215911.gif" width="300"/>
+  <img src="https://repository-images.githubusercontent.com/344610266/246c3a80-7cf0-11eb-92d0-fe1d20e11982" width="500"/>
 </div>
 
 ### 😃 About Me:
