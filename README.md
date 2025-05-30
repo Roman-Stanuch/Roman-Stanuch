@@ -1,7 +1,7 @@
 ## 👋 Greetings, I'm Roman!
 
 <div id="header" align="center">
-  <img src="https://repository-images.githubusercontent.com/344610266/246c3a80-7cf0-11eb-92d0-fe1d20e11982" width="500"/>
+  <img src="https://i.redd.it/jb0u633yc7v81.gif" width="400"/>
 </div>
 
 ### 😃 About Me:
