@@ -1,6 +1,6 @@
 ## 👋 Greetings, I'm Roman!
 
-<div id="header" align="center">
+<div id="header">
   <img src="https://i.redd.it/jb0u633yc7v81.gif" width="400"/>
 </div>
 
@@ -28,7 +28,7 @@
 <br />
 
 ### ⚙️ Statistics:
-<p align="center">
+<p>
 <a href="https://github.com/Roman-Stanuch">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Roman-Stanuch&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Roman-Stanuch&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
