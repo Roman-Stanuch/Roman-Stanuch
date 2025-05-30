@@ -6,7 +6,7 @@
 
 ### 😃 About Me:
 
-<p>I'm currently a student studying computer science! I enjoy applying my programming skills towards creative endeavors and challenging problems. My current focus is on computer graphics and 3D applications, but I dabble in all realms of software development!</p>
+<h4>I'm currently a student studying computer science! I enjoy applying my programming skills towards creative endeavors and challenging problems. My current focus is on computer graphics and 3D applications, but I dabble in all realms of software development!</h4>
 
 <div id="badges">
   <a href="https://romanstanuch.com/Pages/home.html"><img src="https://img.shields.io/badge/Personal_Site-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
