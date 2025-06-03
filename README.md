@@ -9,7 +9,7 @@
 <h4>I'm currently a student studying computer science! I enjoy applying my programming skills towards creative endeavors and challenging problems. My current focus is on computer graphics and 3D applications, but I dabble in all realms of software development!</h4>
 
 <div id="badges">
-  <a href="https://romanstanuch.com/Pages/home.html"><img src="https://img.shields.io/badge/Personal_Site-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://romanstanuch.com/Pages"><img src="https://img.shields.io/badge/Personal_Site-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://www.linkedin.com/in/roman-stanuch-aa4801320/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://polygonal.hashnode.dev/?source=top_nav_blog_home"><img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blog"/>
       <a href="https://www.youtube.com/@polygonallabs"><img src="https://img.shields.io/badge/YouTube-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blog"/>
