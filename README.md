@@ -30,9 +30,9 @@
 <br />
 
 ### Writings
-<!--START_SECTION:feed-->
+<!--START_SECTION:writing-->
 ...
-<!--END_SECTION:feed-->
+<!--END_SECTION:writing-->
 
 <br>
 
