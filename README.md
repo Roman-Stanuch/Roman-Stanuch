@@ -29,6 +29,13 @@
 
 <br />
 
+### Writings
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
+
+<br>
+
 ### ⚙️ Statistics:
 <p>
 <a href="https://github.com/Roman-Stanuch">
