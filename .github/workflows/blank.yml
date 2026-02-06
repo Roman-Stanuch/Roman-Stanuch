@@ -1,0 +1,14 @@
+name: Fetch RSS Feed
+on:
+  schedule:
+    - cron: 0 12 * * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v2
+        with:
+          feed-url: https://romanstanuch.com/rss.xml
+          readme-section: writing
+          empty-commits: false
