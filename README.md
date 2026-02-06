@@ -29,7 +29,7 @@
 
 <br />
 
-### Writings
+### Writings:
 <!--START_SECTION:writing-->
 * [The Art of Studying](https://romanstanuch.com/writing/the-art-of-studying/)
 <!--END_SECTION:writing-->
