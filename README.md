@@ -16,7 +16,7 @@
 
 ### Writings:
 <!--START_SECTION:writing-->
-* [The Art of Studying](https://romanstanuch.com/writing/the-art-of-studying/)
+* [MadHacks 2025](https://romanstanuch.com/writing/madhacks-2025/)
 <!--END_SECTION:writing-->
 
 <br>
