@@ -19,8 +19,6 @@
 * [MadHacks 2025](https://romanstanuch.com/writing/madhacks-2025/)
 <!--END_SECTION:writing-->
 
-<br>
-
 ### ⚙️ Statistics:
 <p>
 <a href="https://github.com/Roman-Stanuch">
